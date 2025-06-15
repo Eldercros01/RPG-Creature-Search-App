@@ -15,7 +15,7 @@ Esta es una aplicación web moderna y responsiva que permite buscar criaturas de
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/rpg-creature-search-app.git
+   https://github.com/Eldercros01/RPG-Creature-Search-App.git
    cd rpg-creature-search-app
    ```
 
