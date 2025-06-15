@@ -1,0 +1,22 @@
+{
+  "name": "rpg-creature-search-app",
+  "version": "1.0.0",
+  "description": "An RPG Creature Search App that allows users to search for creatures by name or ID.",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "rpg",
+    "creature",
+    "search",
+    "app"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
